@@ -43,8 +43,6 @@ The product which was developed by many developers is stored in a unique server 
 - Comparing container images ` beyolix : latest` with ` beyolix : latest-slim` .
 ![image](https://user-images.githubusercontent.com/73429989/205743210-d2f8fe2d-4099-4504-a015-a57dd53a0cff.png)
 
-**Vulnerability Report:** : [Reports](https://github.com/ndrohith09/Beyolix/tree/master/Reports)
-
 ## Challenges we ran into
 - Collecting and Preprocessing the FDA dataset was quite a challenging part .
 2. The user interface integration of our classifier model was challenging.
