@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1069071256417-qihh4h18l5dte8vv8g209bavva8g0uv4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1069071256417-qihh4h18l5dte8vv8g209bavva8g0uv4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCh5lip145L9jmN-sw2WLb73td0BlIDLdk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1069071256417</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.swapn</string>
+	<key>PROJECT_ID</key>
+	<string>swapn-slimai</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swapn-slimai.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1069071256417:ios:9f5df19f5604c3e4351320</string>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+requirements.txt                                                   
+fastapi
+scikit-learn
+uvicorn
+boto3
+joblib
+python-multipart
+requests
+

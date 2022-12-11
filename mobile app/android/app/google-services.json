@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069071256417",
+    "project_id": "swapn-slimai",
+    "storage_bucket": "swapn-slimai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069071256417:android:d15dc5b42b8fde07351320",
+        "android_client_info": {
+          "package_name": "com.example.swapn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069071256417-i5qspjl115dkusd3kmb1ir6scbr3sdn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvGIeEIFulm5oSScyzJ4VsQ99ucXtoddc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069071256417-i5qspjl115dkusd3kmb1ir6scbr3sdn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/webui/node_modules
+/webui/.pnp
+webui/.pnp.js
+
+# testing
+/webui/coverage
+
+# production
+/webui/build
+
+# misc
+webui/.DS_Store
+webui/.env.local
+webui/.env.development.local
+webui/.env.test.local
+webui/.env.production.local
+
+webui/npm-debug.log*
+webui/yarn-debug.log*
+webui/yarn-error.log*
+
+/backend/venv
+/backend/__pycache__
+/backend/.vscode
+/backend/.env 

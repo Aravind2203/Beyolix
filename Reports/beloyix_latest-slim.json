@@ -1,0 +1,129 @@
+{
+  "vulnerabilities": [],
+  "summary": {
+    "unique_vulnerability": {
+      "count": 0,
+      "severity_counts": {
+        "BAD": 0,
+        "CRITICAL": 0,
+        "HIGH": 0,
+        "LOW": 0,
+        "MEDIUM": 0,
+        "NEGLIGIBLE": 0,
+        "UNKNOWN": 0
+      },
+      "engines": {
+        "grype": {
+          "count": 0,
+          "severity_counts": {
+            "BAD": 0,
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "LOW": 0,
+            "MEDIUM": 0,
+            "NEGLIGIBLE": 0,
+            "UNKNOWN": 0
+          }
+        },
+        "trivy": {
+          "count": 0,
+          "severity_counts": {
+            "BAD": 0,
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "LOW": 0,
+            "MEDIUM": 0,
+            "NEGLIGIBLE": 0,
+            "UNKNOWN": 0
+          }
+        }
+      }
+    },
+    "vulnerability_match": {
+      "count": 0,
+      "severity_counts": {
+        "BAD": 0,
+        "CRITICAL": 0,
+        "HIGH": 0,
+        "LOW": 0,
+        "MEDIUM": 0,
+        "NEGLIGIBLE": 0,
+        "UNKNOWN": 0
+      },
+      "engines": {
+        "grype": {
+          "count": 0,
+          "severity_counts": {
+            "BAD": 0,
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "LOW": 0,
+            "MEDIUM": 0,
+            "NEGLIGIBLE": 0,
+            "UNKNOWN": 0
+          }
+        },
+        "trivy": {
+          "count": 0,
+          "severity_counts": {
+            "BAD": 0,
+            "CRITICAL": 0,
+            "HIGH": 0,
+            "LOW": 0,
+            "MEDIUM": 0,
+            "NEGLIGIBLE": 0,
+            "UNKNOWN": 0
+          }
+        }
+      }
+    },
+    "total_package_count": 0
+  },
+  "metadata": {
+    "report_schema": "1",
+    "report_time": "2022-12-05T20:53:42Z",
+    "engines": {
+      "grype": {
+        "app": {
+          "version": "0.42.0",
+          "report_schema": "",
+          "hashes": {
+            "calculated": "sha256:b710658de68d730c1eec4b2cc0ffa3058fdcc1a7426b8f468ea2b74994e9c85d"
+          }
+        },
+        "data": {
+          "version_schema": "4",
+          "update_time": "2022-12-05 08:17:58 +0000 UTC",
+          "hashes": {
+            "calculated": "sha256:09f1eec17027c61f0993b848b314ad339755c9703f6c29e8128324b60aa479c2",
+            "reported": "sha256:09f1eec17027c61f0993b848b314ad339755c9703f6c29e8128324b60aa479c2"
+          }
+        }
+      },
+      "trivy": {
+        "app": {
+          "version": "0.32.1",
+          "report_schema": "",
+          "hashes": {
+            "calculated": "sha256:4260d7045a1dc2b05188c484d77589d111eb017ce9c8a55430c034ac196a57ad"
+          }
+        },
+        "data": {
+          "version_schema": "2",
+          "update_time": "2022-12-05T18:07:56.730393185Z",
+          "hashes": {
+            "calculated": "sha256:34c31645b4acfab214f71f1f5d707a03bf9e4eb442bed14a4fdab1984feb5710"
+          }
+        }
+      }
+    }
+  },
+  "image": {
+    "connector": "dockerhub.public",
+    "path": "docker.io/ndrohith09/beyolix:latest-slim@76de2423c118cfcf81d8c7fc79c3b3a9247b4f88c56489e1906dcba84e4af92d",
+    "namespace": "ndrohith09",
+    "entity": "beyolix",
+    "tag": "latest-slim",
+    "digest": "76de2423c118cfcf81d8c7fc79c3b3a9247b4f88c56489e1906dcba84e4af92d"
+  }
+}
